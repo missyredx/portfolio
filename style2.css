@@ -50,6 +50,13 @@ img {
     
 }
 
+h1 { 
+    font-family: Verdana; 
+    font-size: 39px; 
+    color: #cce6ff; 
+    text-shadow: -1px 0 black, 0 1px black, 2px 0 black, 0 -1px black; }
+
+
 .content {
       width: 94%;
       margin: 4em auto;
